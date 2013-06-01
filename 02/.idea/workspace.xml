@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/StringCalculator.java" afterPath="$PROJECT_DIR$/src/main/java/StringCalculator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/StringCalculatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/StringCalculatorTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="02.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370097031551" ignored="false" />
-    <file path="/StringCalculatorTest.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370097073240" ignored="false" />
+    <file path="/Dummy.txt" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370097143706" ignored="false" />
+    <file path="/StringCalculatorTest.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370097172880" ignored="false" />
     <file path="/fragment.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370096255592" ignored="false" />
     <file path="/StringCalculator.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370097120129" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -79,10 +78,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringCalculatorTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="StringCalculatorTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/StringCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="43" selection-start="753" selection-end="753" vertical-scroll-proportion="0.0">
+            <state line="33" column="22" selection-start="872" selection-end="872" vertical-scroll-proportion="0.8606557">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,10 +89,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringCalculator.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="StringCalculator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StringCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="45" selection-start="200" selection-end="200" vertical-scroll-proportion="0.23224044">
+            <state line="11" column="33" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -120,8 +119,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../01/src/main/java/StringCalculator.java" />
         <option value="$PROJECT_DIR$/../01/src/test/java/StringCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/StringCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StringCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -417,7 +416,11 @@
       <created>1370097040350</created>
       <updated>1370097040351</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="green&#10;">
+      <created>1370097146260</created>
+      <updated>1370097146260</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -487,7 +490,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="green&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -504,8 +507,8 @@
     <MESSAGE value="commit agains to test 2 commits and 1 push&#10;" />
     <MESSAGE value="red&#10;&#10;" />
     <MESSAGE value="red" />
-    <MESSAGE value="green&#10;" />
     <MESSAGE value="refactor" />
+    <MESSAGE value="green&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -534,19 +537,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StringCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="43" selection-start="753" selection-end="753" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="11" column="33" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StringCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/StringCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="45" selection-start="200" selection-end="200" vertical-scroll-proportion="0.23224044">
-          <folding />
+        <state line="33" column="22" selection-start="872" selection-end="872" vertical-scroll-proportion="0.8606557">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
