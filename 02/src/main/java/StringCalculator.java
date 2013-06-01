@@ -14,6 +14,9 @@ public class StringCalculator {
         int sum = 0;
         for (String number : addends) {
             sum += Integer.parseInt(number);
+            if (0>Integer.parseInt(number)) {
+                throw new RuntimeException("negative not allowed: -1");
+            }
         }
 
         return sum     ;
