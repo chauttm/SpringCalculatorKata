@@ -24,4 +24,9 @@ public class StringCalculatorTest {
         assertEquals(7, StringCalculator.add("1,2,4"));
     }
 
+    @Test
+    public void shouldWorkWithNumbersSeparatedByNewlines() {
+        assertEquals(3, StringCalculator.add("1\n2"));
+    }
+
 }
