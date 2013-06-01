@@ -7,8 +7,8 @@
     </list>
     <ignored path="02.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370097143706" ignored="false" />
-    <file path="/StringCalculatorTest.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370097172880" ignored="false" />
+    <file path="/Dummy.txt" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370097208156" ignored="false" />
+    <file path="/StringCalculatorTest.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370097251207" ignored="false" />
     <file path="/fragment.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370096255592" ignored="false" />
     <file path="/StringCalculator.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370097120129" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,7 +81,7 @@
       <file leaf-file-name="StringCalculatorTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/StringCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="22" selection-start="872" selection-end="872" vertical-scroll-proportion="0.8606557">
+            <state line="38" column="57" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.8142077">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -420,7 +420,11 @@
       <created>1370097146260</created>
       <updated>1370097146260</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="refactor test">
+      <created>1370097210845</created>
+      <updated>1370097210845</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -490,7 +494,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="green&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor test" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -509,6 +513,7 @@
     <MESSAGE value="red" />
     <MESSAGE value="refactor" />
     <MESSAGE value="green&#10;" />
+    <MESSAGE value="refactor test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -546,7 +551,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StringCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="22" selection-start="872" selection-end="872" vertical-scroll-proportion="0.8606557">
+        <state line="38" column="57" selection-start="1032" selection-end="1032" vertical-scroll-proportion="0.8142077">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

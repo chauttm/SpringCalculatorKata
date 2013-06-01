@@ -33,4 +33,9 @@ public class StringCalculatorTest {
     public void shouldWorkWithNumbersSeparatedByNewlinesOrComma() {
         assertEquals(6, StringCalculator.add("1\n2,3"));
     }
+
+    @Test
+    public void shouldAllowDelimiterDefinition() {
+        assertEquals(3, StringCalculator.add("//;\n1;2"));
+    }
 }
