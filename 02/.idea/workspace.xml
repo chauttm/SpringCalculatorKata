@@ -2,15 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../01/src/main/java/StringCalculator.java" afterPath="$PROJECT_DIR$/../01/src/main/java/StringCalculator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/StringCalculator.java" afterPath="$PROJECT_DIR$/src/main/java/StringCalculator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../01/src/test/java/StringCalculatorTest.java" afterPath="$PROJECT_DIR$/../01/src/test/java/StringCalculatorTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/StringCalculatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/StringCalculatorTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="02.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370096438002" ignored="false" />
-    <file path="/StringCalculatorTest.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370096392866" ignored="false" />
+    <file path="/Dummy.txt" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370096694071" ignored="false" />
+    <file path="/StringCalculatorTest.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370096672580" ignored="false" />
     <file path="/fragment.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370096255592" ignored="false" />
-    <file path="/StringCalculator.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370096509707" ignored="false" />
+    <file path="/StringCalculator.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370096900031" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +84,7 @@
       <file leaf-file-name="StringCalculatorTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/StringCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="22" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
+            <state line="16" column="12" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,7 +95,7 @@
       <file leaf-file-name="StringCalculator.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/StringCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="41" selection-start="345" selection-end="345" vertical-scroll-proportion="0.510929">
+            <state line="11" column="23" selection-start="342" selection-end="342" vertical-scroll-proportion="0.510929">
               <folding />
             </state>
           </provider>
@@ -117,6 +120,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../01/src/main/java/StringCalculator.java" />
+        <option value="$PROJECT_DIR$/../01/src/test/java/StringCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/StringCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringCalculator.java" />
       </list>
@@ -402,7 +407,11 @@
       <created>1370096448363</created>
       <updated>1370096448363</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="green&#10;">
+      <created>1370096533431</created>
+      <updated>1370096533431</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -414,18 +423,18 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.5007576" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.5098485" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5119863" sideWeight="0.4969697" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28938356" sideWeight="0.4878788" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6712329" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.4939394" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.4848485" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -472,7 +481,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="red&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="red" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -488,6 +497,8 @@
     <MESSAGE value="start 02" />
     <MESSAGE value="commit agains to test 2 commits and 1 push&#10;" />
     <MESSAGE value="red&#10;&#10;" />
+    <MESSAGE value="green&#10;" />
+    <MESSAGE value="red" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -500,9 +511,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../01/src/main/java/StringCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="45" selection-start="351" selection-end="351" vertical-scroll-proportion="0.45945945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../01/src/test/java/StringCalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="30" selection-start="261" selection-end="261" vertical-scroll-proportion="0.3933162">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/StringCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="22" selection-start="601" selection-end="601" vertical-scroll-proportion="0.0">
+        <state line="16" column="12" selection-start="362" selection-end="362" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -511,7 +538,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StringCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="41" selection-start="345" selection-end="345" vertical-scroll-proportion="0.510929">
+        <state line="11" column="23" selection-start="342" selection-end="342" vertical-scroll-proportion="0.510929">
           <folding />
         </state>
       </provider>

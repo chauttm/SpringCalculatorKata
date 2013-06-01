@@ -2,13 +2,6 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-/**
- * Created with IntelliJ IDEA.
- * User: dse
- * Date: 6/1/13
- * Time: 9:14 PM
- * To change this template use File | Settings | File Templates.
- */
 public class StringCalculatorTest {
     @Test
     public void shouldReturn0WithNullInput() {
@@ -24,4 +17,10 @@ public class StringCalculatorTest {
     public void shouldWorkWithOneNumber() {
         assertEquals(1, StringCalculator.add("1"));
     }
+
+    @Test
+    public void shouldWorkWithTwoNumbersAndAComma() {
+        assertEquals(3, StringCalculator.add("1,2"));
+    }
+
 }
