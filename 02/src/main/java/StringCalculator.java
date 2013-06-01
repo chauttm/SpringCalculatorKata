@@ -13,6 +13,7 @@ public class StringCalculator {
         int sum = 0;
         StringBuffer errorMessage = new StringBuffer();
         for (String number : addends) {
+            if (1000<Integer.parseInt(number)) continue;
             sum += Integer.parseInt(number);
             if (0 > Integer.parseInt(number)) {
                 errorMessage.append(" " + number + ",");
