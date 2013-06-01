@@ -49,11 +49,11 @@ public class StringCalculatorTest {
     @Test
     public void shouldThrowExceptionWithNegativeInput() {
         try {
-            StringCalculator.add("-1,2");
+            StringCalculator.add("-1,2,-100");
             assertFalse(true);
         } catch (RuntimeException e) {
             assertTrue(e.getMessage().indexOf("negative not allowed") >= 0);
-            assertTrue(e.getMessage().indexOf("-1") >= 0);
+            assertTrue(e.getMessage().indexOf("-1, -100") >= 0);
         }
     }
 
