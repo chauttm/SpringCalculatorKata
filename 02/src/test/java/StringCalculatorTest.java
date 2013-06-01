@@ -38,4 +38,9 @@ public class StringCalculatorTest {
     public void shouldAllowDelimiterDefinition() {
         assertEquals(3, StringCalculator.add("//;\n1;2"));
     }
+
+    @Test
+    public void shouldAllowDelimiterDefinitionAsWellAsDefaultDelimiters() {
+        assertEquals(10, StringCalculator.add("//;\n1;2,3\n4"));
+    }
 }
