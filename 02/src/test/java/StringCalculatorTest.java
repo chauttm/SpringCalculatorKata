@@ -19,8 +19,9 @@ public class StringCalculatorTest {
     }
 
     @Test
-    public void shouldWorkWithTwoNumbersAndAComma() {
+    public void shouldWorkWithNumbersSeparatedByCommas() {
         assertEquals(3, StringCalculator.add("1,2"));
+        assertEquals(7, StringCalculator.add("1,2,4"));
     }
 
 }
