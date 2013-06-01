@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/StringCalculator.java" afterPath="$PROJECT_DIR$/src/main/java/StringCalculator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/StringCalculatorTest.java" afterPath="$PROJECT_DIR$/src/test/java/StringCalculatorTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="02.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370098822857" ignored="false" />
-    <file path="/StringCalculatorTest.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370098490300" ignored="false" />
+    <file path="/Dummy.txt" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370099399047" ignored="false" />
+    <file path="/StringCalculatorTest.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370099459027" ignored="false" />
     <file path="/fragment.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370096255592" ignored="false" />
     <file path="/StringCalculator.java" changelist="103bf4b1-86b7-46ba-83f8-2dc877f1d3db" time="1370099261377" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -78,10 +78,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringCalculatorTest.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="StringCalculatorTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/StringCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="64" selection-start="1632" selection-end="1632" vertical-scroll-proportion="0.0">
+            <state line="62" column="51" selection-start="1822" selection-end="1822" vertical-scroll-proportion="0.85303515">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,10 +89,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringCalculator.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="StringCalculator.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/StringCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="34" selection-start="715" selection-end="715" vertical-scroll-proportion="0.6203474">
+            <state line="22" column="54" selection-start="865" selection-end="865" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -119,8 +119,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../01/src/main/java/StringCalculator.java" />
         <option value="$PROJECT_DIR$/../01/src/test/java/StringCalculatorTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/StringCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/StringCalculator.java" />
+        <option value="$PROJECT_DIR$/src/test/java/StringCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -448,7 +448,11 @@
       <created>1370098825943</created>
       <updated>1370098825943</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="refactor">
+      <created>1370099402264</created>
+      <updated>1370099402264</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -460,7 +464,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26541096" sideWeight="0.3969697" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41952056" sideWeight="0.3969697" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -470,8 +474,8 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.73458904" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26541096" sideWeight="0.5977273" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.58047944" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41952056" sideWeight="0.5977273" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -518,7 +522,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="green" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -536,10 +540,10 @@
     <MESSAGE value="red&#10;&#10;" />
     <MESSAGE value="refactor test" />
     <MESSAGE value="red" />
-    <MESSAGE value="refactor" />
     <MESSAGE value="green&#10;" />
     <MESSAGE value="red&#10;" />
     <MESSAGE value="green" />
+    <MESSAGE value="refactor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -568,19 +572,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StringCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/StringCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="64" selection-start="1632" selection-end="1632" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="22" column="54" selection-start="865" selection-end="865" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/StringCalculator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/StringCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="34" selection-start="715" selection-end="715" vertical-scroll-proportion="0.6203474">
-          <folding />
+        <state line="62" column="51" selection-start="1822" selection-end="1822" vertical-scroll-proportion="0.85303515">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
