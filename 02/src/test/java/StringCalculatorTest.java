@@ -62,4 +62,10 @@ public class StringCalculatorTest {
         assertEquals(2, StringCalculator.add("2,1001"));
         assertEquals(1002, StringCalculator.add("2,1000"));
     }
+
+    @Test
+    public void shouldAllowLongDelimiters() {
+        assertEquals(2, StringCalculator.add("//[***]\n1***2***3\n4"));
+
+    }
 }
